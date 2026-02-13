@@ -2,6 +2,9 @@
 
 This project analyzes enterprise retail sales data using Power BI.
 
+## Dashboard Preview
+![Dashboard](dashboard.png)
+
 ## KPIs Implemented
 - Total Sales
 - Total Profit
@@ -13,8 +16,7 @@ This project analyzes enterprise retail sales data using Power BI.
 ## Tools Used
 - Power BI
 - DAX
-- Data Modeling
 - CSV Dataset
 
-## Project Objective
-To build an interactive business intelligence dashboard to support data-driven decision making and analyze sales performance trends.
+## Objective
+To build an interactive dashboard that provides insights into sales trends, regional performance, and category contribution.
